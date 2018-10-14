@@ -1,0 +1,5 @@
+import javax.swing.*
+var f = new JFrame("JShell")
+f.setSize(400, 300)
+f.setVisible(true)
+
